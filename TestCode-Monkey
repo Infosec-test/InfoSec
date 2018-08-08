@@ -1,0 +1,6 @@
+# -----------------------------------------------------------------------
+# Database Properties (used by the doccleanup package)
+# -----------------------------------------------------------------------
+db.connectionprovider=jdbc:oracle:thin:@docdb1.doc.j2noc.com:1521:DOCPRD
+db.username = DOCAPP2
+db.password = zEy2DsQ#KL
